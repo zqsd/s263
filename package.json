@@ -1,0 +1,11 @@
+{
+  "name": "s263",
+  "version": "0.0.1",
+  "description": "S2 library wrapper that encodes in 63 bits, for safe signed 64 bits manipulation",
+  "main": "main.js",
+  "author": "Clément Wiz <wiz@haxx.es>",
+  "license": "ISC",
+  "dependencies": {
+    "s2-geometry": "^1.2.10"
+  }
+}
